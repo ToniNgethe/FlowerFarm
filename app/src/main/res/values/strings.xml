@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FlowerFarm</string>
+    <string name="title_activity_farmer_main_panel">FarmerMainPanel</string>
+    <string name="title_activity_post_farm_condition">PostFarmConditionActivity</string>
+    <string name="title_activity_add_expert">AddExpertActivity</string>
+    <string name="title_activity_expert_panel">ExpertPanelActivity</string>
+</resources>

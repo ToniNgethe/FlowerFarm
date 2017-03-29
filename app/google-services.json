@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1099276602620",
+    "firebase_url": "https://flowerfarm-77b58.firebaseio.com",
+    "project_id": "flowerfarm-77b58",
+    "storage_bucket": "flowerfarm-77b58.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1099276602620:android:468f9b27ff886fc2",
+        "android_client_info": {
+          "package_name": "com.example.toni.flowerfarm"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1099276602620-s5da5bjckuph0iv9kmtvovdfch49t0et.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.toni.flowerfarm",
+            "certificate_hash": "90503486add17b4ac6170caf2b8574c52b409cb0"
+          }
+        },
+        {
+          "client_id": "1099276602620-etse4hr698c48eot9pp9ikgdufvho8es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2ybO6Fza7X6vm29PHxdubc7WEt_U4JF4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1099276602620-etse4hr698c48eot9pp9ikgdufvho8es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

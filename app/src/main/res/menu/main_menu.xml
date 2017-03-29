@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/action_settings"
+        android:title="Settings"
+        />
+    <item
+        android:id="@+id/action_logout"
+        android:title="Log out"
+        />
+    <item android:id="@+id/action_add"
+        android:title="Search receipt"
+        android:icon="@mipmap/ic_add_white_24dp"
+        app:showAsAction="always|collapseActionView"
+        tools:ignore="AppCompatResource" />
+</menu>
